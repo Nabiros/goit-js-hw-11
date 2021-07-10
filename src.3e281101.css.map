@@ -1,0 +1,1 @@
+{"version":3,"sources":["sass/_btn.scss"],"names":[],"mappings":"AAAA,OACE,WAAA,CACA,WAAA,CACA,sBAAA,CACA,iBAAA,CACA,YAAA,CACA","file":"src.3e281101.css","sourceRoot":"../src","sourcesContent":["button {\n  width: 100px;\n  height: 100%;\n  background-color: green;\n  text-align: center;\n  padding: 10px;\n  color: white;\n}\n"]}
