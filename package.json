@@ -1,16 +1,16 @@
 {
-  "name": "goit-js-hw-11-color-switch",
+  "name": "goit-js-hw-11",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-    "homepage": "https://Nabiros.github.io/goit-js-hw-11-color-switch",
+    "homepage": "https://Nabiros.github.io/goit-js-hw-11",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-11-color-switch/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-11/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nabiros/goit-js-hw-11-color-switch"
+    "url": "git+https://github.com/Nabiros/goit-js-hw-11"
   },
   "keywords": [],
   "author": "NaZEX",
