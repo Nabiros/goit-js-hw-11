@@ -7,4 +7,4 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 },{"../js/refs":"clu1","../js/colors":"oLA8"}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss");var s=e(require("./js/switch-color"));function e(s){return s&&s.__esModule?s:{default:s}}
 },{"./sass/main.scss":"clu1","./js/switch-color":"IVqa"}]},{},["Focm"], null)
-//# sourceMappingURL=/goit-js-hw-11-color-switch/src.d7e55403.js.map
+//# sourceMappingURL=/goit-js-hw-11/src.d7e55403.js.map
