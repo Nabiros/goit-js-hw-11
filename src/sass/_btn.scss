@@ -5,4 +5,9 @@ button {
   text-align: center;
   padding: 10px;
   color: white;
+
+  &:disabled {
+    background-color: gray;
+    color: beige;
+  }
 }
